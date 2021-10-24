@@ -3,7 +3,7 @@ __Multi-class Semantic Segmentation using pre-trained U-Net on SIMA5AC dataset l
 
 The dataset:
 - SIMA5ACCS (SIMA5AC(as provided by the Client) +crop +split into quadrants)
-- sandStone(download from "github.link") for pertrain the model
+- sandStone(download from [link of sandStone](https://drive.google.com/file/d/1HWtBaSa-LTyAMgf2uaz1T9o1sTWDBajU/view)) for pertrain the model
 
 # Pretrain model
 The pretrain model use an orginal U-net structure to build the model. 
